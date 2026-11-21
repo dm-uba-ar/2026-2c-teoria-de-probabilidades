@@ -1,24 +1,16 @@
-# Teoría de Probabilidades — Segundo cuatrimestre de 2026
+# Teoría de Probabilidades
 
-## Prácticas
+Segundo Cuatrimestre 2026
 
-- [lista](ejer_pensar_teo_proba2.pdf)
-- [ejercicios para pensar](ejer_pensar_teo_proba.pdf)
-- [Práctica 1 - Construcción de medidas](practica1.pdf)
-- [Práctica 2 - Generalidades](practica2.pdf)
-- [Práctica 3 - Esperanza condicional](practica3.pdf)
-- [Práctica 4 - Martingalas](practica4.pdf)
-- [Práctica 5 - Cadenas de Markov](practica5.pdf)
-- [Práctica 6 - Cadenas de Markov a tiempo continuo](practica6.pdf)
+### **Novedades**
 
-## Apuntes y notas
+\
 
-- [notas](notas_teo_proba.pdf)
+- Está disponible el  [parcial](parcial.pdf)
+- Empezamos una [lista](ejer_pensar_teo_proba2.pdf) colaborativa de problemas, están todos invitados a mandarme problemas para sumar.
 
-## Otros materiales
+### Horarios, docentes y aulas
 
-- [parcial](parcial.pdf)
-
-## Página original
-
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/2docuat2026/teoria_de_probabilidades)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Teórico - Práctico | Lu - Ju: 9:30 a 12:30 | [Pablo Blanc](mailto:pblanc@dm.uba.ar) | Aula 1204 | Pab 0+inf |
